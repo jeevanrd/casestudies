@@ -1,0 +1,4 @@
+Sum problem
+
+Input: X={n1,n2,n3,..n(s)}, G
+Output= various combinations of X(n1..n(s)), where sum of X(n) = G

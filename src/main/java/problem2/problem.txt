@@ -1,0 +1,26 @@
+Infra Asset Management
+
+IT-ForAll is a software development company located in Bangalore and
+it has its own IT Infra Asset management team. To support their IT infra
+operation, build a system to track employee asset request (includes
+maintain of status of each request like in-progress, fulfilled, low
+inventory…), inventory of assets (like Laptops, Desktops, Monitors …)
+and assets procurement.
+
+Above mentioned system should calculate the expected fulfillment date
+of particular employee request based on available inventory and also
+should generate the new order to concern manufacturing company if
+inventory is low for particular asset.
+
+Input:
+- Employee asset request data in excel.
+- Asset Inventory and Order tracking could be file based system
+
+Output:
+- Execution of program outcome should update the Employee
+asset request with expected fulfillment date, plus/minus in
+inventory and new order request to the manufacture for low
+inventory items.
+
+Also while designing, address how system will be scalable if employee
+count grows and company located in multiple locations.
