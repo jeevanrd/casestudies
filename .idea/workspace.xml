@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49c163f-22a3-4dad-9f8d-3ea75386da65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/problem1/sch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/problem1/ScheduledTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/problem1/ScheduledTask1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/problem1/sch.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/problem1/fhm.class" afterPath="$PROJECT_DIR$/target/classes/problem1/fhm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/casestudies.iml" afterPath="$PROJECT_DIR$/casestudies.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/problem1/fhm.java" afterPath="$PROJECT_DIR$/src/main/java/problem1/fhm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/problem3/problem.txt" afterPath="$PROJECT_DIR$/src/main/java/problem3/problem.txt" />
     </list>
     <ignored path="casestudies.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,21 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/problem2/problem.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80472106">
+            <state vertical-scroll-proportion="0.0">
               <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="problem.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/problem3/problem.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="66" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.19313304">
+              <caret line="6" column="111" selection-start-line="6" selection-start-column="111" selection-end-line="6" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -164,11 +156,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/problem1/problem.txt" />
         <option value="$PROJECT_DIR$/src/main/java/problem2/problem.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/problem3/problem.txt" />
         <option value="$PROJECT_DIR$/src/main/java/problem1/sch.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/problem1/fhm.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem3/Sum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem3/problem.txt" />
       </list>
     </option>
   </component>
@@ -970,14 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/problem3/problem.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="66" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/problem3/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -988,8 +972,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/problem2/problem.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80472106">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem3/problem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19313304">
+          <caret line="6" column="111" selection-start-line="6" selection-start-column="111" selection-end-line="6" selection-end-column="111" />
           <folding />
         </state>
       </provider>
