@@ -16,7 +16,7 @@ public class SumCombinations {
 
     static void combinations(int arr[], int data[], int start, int end, int index, int r) {
         if (index == r) {
-            getSum(Arrays.copyOfRange(data,0,r), count);
+            getSum(data, count);
             return;
         }
 
